@@ -6,4 +6,4 @@
 - [x] DevPleno - Workshop Power Sites - Aula 4.mp4
 - [ ] DevPleno - Workshop Power Sites - Aula 5.mp4
 
-55 min
+1:12 min
